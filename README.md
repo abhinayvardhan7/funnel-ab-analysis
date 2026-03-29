@@ -1,7 +1,7 @@
 # funnel-ab-analysis
 
 Funnel & A/B Testing Analysis
-Problem
+#Problem
 
 Users were visiting the platform and exploring products, but many of them were not completing purchases.
 The goal of this analysis is to understand where users drop off in the funnel and how to improve conversion.
